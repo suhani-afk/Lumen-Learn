@@ -178,8 +178,8 @@ Lumo, a little crayon firefly, cheers you on, helps when you're stuck, and never
 **Requires** Node 22.13 or newer.
 
 ```bash
-git clone https://github.com/Anasarfeen123/lumen-learn.git
-cd lumen-learn
+git clone https://github.com/suhani-afk/Lumen-Learn.git
+cd Lumen-Learn
 npm install
 cp .env.example .env      # optional: add AI and voice keys (see below)
 npm run dev               # → http://localhost:5173
