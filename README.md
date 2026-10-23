@@ -7,6 +7,8 @@
 A playful reading, spelling and story app built with dyslexic learners in mind, and enjoyable for everyone.<br />
 Lumo, a little crayon firefly, cheers you on, helps when you're stuck, and never minds a mistake.
 
+# Lumen Learn | NeuralDAO 2.0 Hackathon Winner
+
 <p>
   <a href="https://lumen-learn.onrender.com"><img alt="Live demo" src="https://img.shields.io/badge/live%20demo-lumen--learn.onrender.com-1f2a5c?style=for-the-badge&logo=render&logoColor=white" /></a>
 </p>
